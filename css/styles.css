@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Poppins";
-    src: url("https://stanislav-karpushev.github.io/game-site-adaptive/fonts/Poppins-Bold.woff2");
+    src: url("https://stanislav-karpushev.github.io/game-site/fonts/Poppins-Bold.woff2");
     font-display: swap;
     font-style: normal;
     font-weight: 700
@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: "Poppins";
-    src: url("https://stanislav-karpushev.github.io/game-site-adaptive/fonts/Poppins-ExtraBold.woff2");
+    src: url("https://stanislav-karpushev.github.io/game-site/fonts/Poppins-ExtraBold.woff2");
     font-display: swap;
     font-style: normal;
     font-weight: 800
@@ -16,7 +16,7 @@
 
 @font-face {
     font-family: "Poppins";
-    src: url("https://stanislav-karpushev.github.io/game-site-adaptive/fonts/Poppins-SemiBold.woff2");
+    src: url("https://stanislav-karpushev.github.io/game-site/fonts/Poppins-SemiBold.woff2");
     font-display: swap;
     font-style: normal;
     font-weight: 600
@@ -24,7 +24,7 @@
 
 @font-face {
     font-family: "Poppins";
-    src: url("https://stanislav-karpushev.github.io/game-site-adaptive/fonts/Poppins-Medium.woff2");
+    src: url("https://stanislav-karpushev.github.io/game-site/fonts/Poppins-Medium.woff2");
     font-display: swap;
     font-style: normal;
     font-weight: 500
@@ -32,7 +32,7 @@
 
 @font-face {
     font-family: "Poppins";
-    src: url("https://stanislav-karpushev.github.io/game-site-adaptive/fonts/Poppins-Regular.woff2");
+    src: url("https://stanislav-karpushev.github.io/game-site/fonts/Poppins-Regular.woff2");
     font-display: swap;
     font-style: normal;
     font-weight: 400
@@ -311,7 +311,7 @@ header nav ul li.btn:hover {
 /*************Section Features*************/
 
 .Features {
-    background: url('https://stanislav-karpushev.github.io/game-site-adaptive/image/backgrounds/Fonts.png') no-repeat center center fixed;
+    background: url('https://stanislav-karpushev.github.io/game-site/image/backgrounds/Fonts.png') no-repeat center center fixed;
     background-size: cover;
     padding: 80px 0px;
 
@@ -1067,7 +1067,7 @@ footer>p {
     color: #fff;
     padding-left: 40px;
     margin: 20px 0 40px;
-    background: url(image/icon/glass.svg) no-repeat 3% 50%;
+    background: url('https://stanislav-karpushev.github.io/game-site/image/icon/glass.svg) no-repeat 3% 50%;
 
 }
 .visually-hidden {
