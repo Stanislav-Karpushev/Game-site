@@ -313,7 +313,7 @@ header nav ul li.btn:hover {
 .Features {
     background: url('https://stanislav-karpushev.github.io/game-site/image/backgrounds/Fonts.png') no-repeat center center fixed;
     background-size: cover;
-    padding: 80px 0px;
+    padding: 80px 0 40px 0 ;
 
 }
 
@@ -1714,7 +1714,7 @@ footer>p {
     }
 
     .Features .info .block {
-        width: 35%;
+        width: 29%;
         max-width: 280px;
         margin: 15px auto;
         min-width: 192px;
@@ -1869,8 +1869,8 @@ footer>p {
     }
 
     .Features .info .block {
-          width: 33%;
-        min-width: 110px;
+          font-size: 11px;
+        margin-bottom: 10px;
     }
 
     .email .Block input {
@@ -1891,17 +1891,7 @@ footer>p {
     }
 }
 
-@media screen and (max-width: 381px) {
-    
-    .Features .info {
-    display: flex;
-    flex-direction: column;
-    }
-    .Features .info .block {
-     width: 30%;
-    }
 
-}
 
 /* ========================================
    FIX: Prevent horizontal scroll on mobile
@@ -2571,6 +2561,9 @@ footer>p {
     .port-btn {
         gap: 15px;
         margin-top: -50px;
+    }
+       .port-btn img {
+        max-width: 45%;
     }
 
 }
