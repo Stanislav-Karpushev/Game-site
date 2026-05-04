@@ -1489,7 +1489,7 @@ footer>p {
     }
 
     .Features .info .block {
-        width: 32%;
+        width: 35%;
         margin: 15px 1.5%;
         max-width: 220px;
 
@@ -1599,6 +1599,7 @@ footer>p {
         margin-top: 30px;
         padding: 0 20px;
     }
+
 }
 
 /* ========================================
@@ -1867,10 +1868,14 @@ footer>p {
     .big-text {
         font-size: 18px;
     }
+    .Features .info .block p {
+        font-size: 11px;
+        margin-bottom: 10px;
+    }
 
     .Features .info .block {
-          font-size: 11px;
-        margin-bottom: 10px;
+        width: 26%;
+        min-width: 87px;
     }
 
     .email .Block input {
